@@ -18,8 +18,6 @@ image below to watch.
 
 [![DeOldify Tutorial](http://img.youtube.com/vi/VaEl0faDw38/0.jpg)](http://www.youtube.com/watch?v=VaEl0faDw38)
 
-Get more updates on [Twitter
-![Twitter logo](resource_images/twitter.svg)](https://twitter.com/DeOldify).
 
 ## Table of Contents
 
